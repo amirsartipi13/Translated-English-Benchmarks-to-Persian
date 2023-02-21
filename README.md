@@ -75,3 +75,15 @@ Fine-tuned models in both English and Persian are available in [HuggingFace <g-e
 ![](https://github.com/amirsartipi13/Translated-English-Benchmarks-to-Persian/blob/main/charts/fa-ontonotes.png?raw=true)
 
 # Citation
+```bibtex
+@misc{https://doi.org/10.48550/arxiv.2302.09611,
+  doi = {10.48550/ARXIV.2302.09611},
+  url = {https://arxiv.org/abs/2302.09611},
+  author = {Sartipi, Amir and Fatemi, Afsaneh},
+  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Exploring the Potential of Machine Translation for Generating Named Entity Datasets: A Case Study between Persian and English},
+  publisher = {arXiv},
+  year = {2023},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
